@@ -8,3 +8,10 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+.imageclass1{
+    background-image: url('/assets/pexels-neshin-nelson-5359389.jpg');
+    height: 100%;
+    
+    min-height: 700px;
+    background-size: cover;
+}
