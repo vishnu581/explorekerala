@@ -5,16 +5,7 @@
     align-items: center;
     
 }
-body{
-    
-}
-/* .imageclass1{
-    background-image: url('/assets/pexels-neshin-nelson-5359389.jpg');
-    height: 100%;
-    
-    min-height: 700px;
-    background-size: cover;
-} */
+
 .masthead{
     background-size: cover;
     min-height: 100vh;
